@@ -1,0 +1,3 @@
+[submodule "guessing-game"]
+	path = guessing-game
+	url = D:\\dev\\rust\\guessing-game\\
